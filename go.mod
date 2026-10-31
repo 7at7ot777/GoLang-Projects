@@ -3,6 +3,6 @@ module firstProgram
 go 1.27.3
 
 require (
-	github.com/joefazee/httplib v1.0.1 // indirect
-	golang.org/x/time v0.3.0 // indirect
+	github.com/mattn/go-sqlite3 v1.14.52
+	golang.org/x/crypto v0.58.0
 )
